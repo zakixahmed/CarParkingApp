@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124463323490",
+    "project_id": "pspot-take-7",
+    "storage_bucket": "pspot-take-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124463323490:android:1db842b4d3059ac267743b",
+        "android_client_info": {
+          "package_name": "com.example.pspottake7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5txVBqw_GvW3aZEHvUkX4rarN2ahGYJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
